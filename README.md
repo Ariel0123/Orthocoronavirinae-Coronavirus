@@ -5,7 +5,7 @@
 <hr>
 
 <strong>COVID-19 is a disease caused by the SARS-CoV-2, this is a test of how the model works detecting it.</strong>
-<img src="https://github.com/Ariel0123/SARS-CoV-2-DETECTION/blob/master/output_test/images_test/804.jpg" />
+<img src="https://github.com/Ariel0123/SARS-CoV-2-DETECTION/blob/master/output_test/images_test/bn38th.jpg" />
 
 <h4>Installation</h4>
 <strong>Create environment -Optional-</strong><br>
