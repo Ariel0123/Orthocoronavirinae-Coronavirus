@@ -1,23 +1,34 @@
 <h1>DISCLAIMER</h1>
 
-<h2>This model is not approved by any institution or organization, it's only to test how deep learning work detecting SARS-CoV-2.</h2>
+<h2>This model is not approved by any institution or organization, it's only to test how deep learning works detecting SARS-CoV-2.</h2>
 
 <hr>
 <h4>Installation</h4>
 <strong>Create an environment -Optional-</strong>
-<p>virtualenv NAME-OF-ENVIROMENT</p>
+
+```python
+virtualenv NAME-ENVIROMENT
+```
+
 <strong>Activate enviroment</strong>
-<p>source NAME-OF-ENVIROMENT/bin/activate</p>
+
+```python
+source NAME-ENVIROMENT/bin/activate
+```
 
 <strong>Install requirements</strong>
-<p>pip install -r requirements.txt</p>
+
+```python
+pip install -r requirements.txt
+```
 
 <h4>Usage</h4>
 <strong>Run the program</strong>
+
 ```python
-<p>python detection.py</p>
+python detection.py
 ```
-<strong>In the folder "images_test" is where you put the images to detect.</strong>
+<strong>In the folder "images_test" is where you put the images to detect.</strong><br>
 <strong>In the folder "output_test" is where the results of the images are.</strong>
 
 
