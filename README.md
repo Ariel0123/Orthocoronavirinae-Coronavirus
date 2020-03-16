@@ -33,7 +33,9 @@ pip install -r requirements.txt
 python detection.py
 ```
 <strong>The "images_test" folder is where the images to detect are located.</strong><br>
-<strong>In the folder "output_test" is where the results of the images are.</strong>
+<strong>In the folder "output_test" is where the results of the images are.</strong><br><br>
+
+<strong>If the images are in png or jpeg format, they will be automatically converted to jpg to avoid errors.</strong>
 
 <strong>The model was trained with TensorFlow Object Detection API, the model is the "faster_rcnn_inception_v2_coco".</strong>
 
