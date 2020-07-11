@@ -1,10 +1,10 @@
 <h1>DISCLAIMER</h1>
 
-<h2>This model is not approved by any institution or organization, it's only to test how deep learning works detecting SARS-CoV-2.</h2>
+<h2>This model is not approved by any institution or organization, it's only to test how deep learning works detecting the subfamily Orthocoronavirinae(Coronavirus), in the family Coronaviridae.</h2>
 
 <hr>
 
-<strong>COVID-19 is a disease caused by the SARS-CoV-2, this is a test of how the model works detecting it.</strong>
+
 <img src="https://github.com/Ariel0123/SARS-CoV-2-DETECTION/blob/master/output_test/images_test/bn38th.jpg" />
 
 <h4>Installation</h4>
