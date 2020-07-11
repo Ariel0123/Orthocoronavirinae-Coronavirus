@@ -1,6 +1,6 @@
 <h1>DISCLAIMER</h1>
 
-<h2>This model is not approved by any institution or organization, it's only to test how deep learning works detecting the subfamily Orthocoronavirinae(Coronavirus), in the family Coronaviridae.</h2>
+<h2>This model is not approved by any institution or organization, it's only to test how deep learning works detecting the subfamily Orthocoronavirinae(Coronavirus), that belongs to the family Coronaviridae.</h2>
 
 <hr>
 
