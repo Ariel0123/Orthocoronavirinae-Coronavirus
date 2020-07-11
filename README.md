@@ -2,10 +2,12 @@
 
 <h2>This model is not approved by any institution or organization, it's only to test how deep learning works detecting the subfamily Orthocoronavirinae(Coronavirus), that belongs to the family Coronaviridae.</h2>
 
+<h2>This model does not detect COVID-19, it detects the subfamily Orthocoronavirinae(Coronavirus).</h2>
+
 <hr>
 
 
-<img src="https://github.com/Ariel0123/SARS-CoV-2-DETECTION/blob/master/output_test/images_test/bn38th.jpg" />
+<img src="https://github.com/Ariel0123/Orthocoronavirinae-Coronavirus/blob/master/output_test/images_test/image10.jpg" />
 
 <h4>Installation</h4>
 <strong>Create environment -Optional-</strong><br>
