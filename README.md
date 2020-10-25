@@ -2,7 +2,7 @@
 
 <h2>This model is not approved by any institution or organization, it's only to test how deep learning works detecting the subfamily Orthocoronavirinae(Coronavirus), that belongs to the family Coronaviridae.</h2>
 
-<h2>This model does not detect COVID-19, it detects the subfamily Orthocoronavirinae(Coronavirus).</h2>
+<h2>This model does not detect COVID-19, it detects the subfamily Orthocoronavirinae(Coronavirus virion).</h2>
 
 <hr>
 
